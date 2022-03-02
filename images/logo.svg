@@ -1,0 +1,28 @@
+<svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 422 70"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve"
+>
+   <g id="Layer-1">
+      <g>
+         <text x="30" y="18" style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; font-weight: 700" transform="scale(3)">
+            <tspan fill="#d7b6ff">Akash</tspan>
+            <tspan fill="rgb(0 194 100)">Rahman</tspan>
+          </text>
+      </g>
+     
+     <g transform="matrix(0.707097,-0.707117,-0.707117,-0.707097,23.0682,59.1936)">
+         <rect x="10.156" y="-24.519" width="49.037" height="49.038" style="fill: rgb(0 194 100);"></rect>
+      </g>
+      <g transform="matrix(1,0,0,1,4.5136,13.8033)">
+         <path d="M0,41.894L0,-0.22L24.278,-0.22L28.792,-4.777L-4.514,-4.777L-4.514,46.671L28.572,46.671L23.796,41.894L0,41.894Z" style="fill: rgb(85, 57, 210); fill-rule: nonzero;"></path>
+      </g>
+      <g transform="matrix(1,0,0,1,38.541,60.4744)">
+         <path d="M0,-51.448L-4.514,-46.891L10.035,-46.891L10.035,-4.777L-4.602,-4.777L0.175,0L14.549,0L14.549,-51.448L0,-51.448Z" style="fill: rgb(85, 57, 210); fill-rule: nonzero;"></path>
+      </g>
+   </g>
+</svg>
